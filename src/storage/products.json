@@ -1,0 +1,12 @@
+[
+  {
+    "id": "beaa6a1e610a8e83fc0559093d4a5f1a2718394d514b44b96360e939d25bfd41",
+    "title": "producto 1",
+    "description": "asdf",
+    "price": 100,
+    "status": true,
+    "thumbnail": "Imagen 1",
+    "stock": 100,
+    "code": "abc123"
+  }
+]
